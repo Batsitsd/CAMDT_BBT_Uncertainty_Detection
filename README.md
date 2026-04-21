@@ -1,5 +1,11 @@
 # CAMDT-BBT: Uncertainty-Aware Underwater Cable Fault Detection
 
+## Associated Paper
+
+This repository provides an implementation of the method proposed in the following paper:
+
+> **An Artificial Intelligence-Based Bayesian Framework for Uncertainty-Aware Underwater Cable Fault Detection**  
+
 ## Overview
 
 This repository provides an implementation of the **CAMDT-BBT framework**, a Bayesian-enhanced Transformer architecture designed for robust and uncertainty-aware underwater cable fault detection.
